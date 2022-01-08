@@ -1,4 +1,4 @@
-package com.kj.newyorkbooklist
+package com.kj.newyorkbooklistings
 
 import org.junit.Test
 

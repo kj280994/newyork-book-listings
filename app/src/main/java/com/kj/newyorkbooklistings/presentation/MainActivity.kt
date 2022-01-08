@@ -1,4 +1,4 @@
-package com.kj.newyorkbooklist.presentation
+package com.kj.newyorkbooklistings.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

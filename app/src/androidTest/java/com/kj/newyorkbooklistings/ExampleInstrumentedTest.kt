@@ -1,4 +1,4 @@
-package com.kj.newyorkbooklist
+package com.kj.newyorkbooklistings
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
