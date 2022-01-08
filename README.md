@@ -1,4 +1,4 @@
-###New York Book Listings Project
+### New York Book Listings Project
 This is a project developed in Android Studio which uses Books API to generate book listings of New
 York.
 
